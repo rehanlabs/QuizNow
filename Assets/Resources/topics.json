@@ -1,0 +1,1444 @@
+{
+  "topics": [
+    {
+      "topicId": "gk",
+      "topicName": "General Knowledge",
+      "questions": [
+        {
+          "id": "gk1",
+          "prompt": "What is the capital of France?",
+          "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "gk2",
+          "prompt": "The human heart has how many chambers?",
+          "options": [
+            "2",
+            "4",
+            "3",
+            "5"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "gk3",
+          "prompt": "Which planet is known as the Red Planet?",
+          "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Mercury"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "gk4",
+          "prompt": "Which is the largest ocean in the world?",
+          "options": [
+            "Atlantic",
+            "Indian",
+            "Pacific",
+            "Arctic"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        },
+        {
+          "id": "gk5",
+          "prompt": "How many continents are there on Earth?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "gk6",
+          "prompt": "Which is the tallest mountain in the world?",
+          "options": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Denali"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "gk7",
+          "prompt": "What is the smallest country in the world?",
+          "options": [
+            "Monaco",
+            "Vatican City",
+            "Malta",
+            "San Marino"
+          ],
+          "correctIndex": 1,
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "topicId": "anime",
+      "topicName": "Anime",
+      "questions": [
+        {
+          "id": "aniq1",
+          "prompt": "In 'Naruto', what is the name of Naruto’s signature move?",
+          "options": [
+            "Kamehameha",
+            "Rasengan",
+            "Bankai",
+            "Shadow Strike"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "aniq2",
+          "prompt": "Which anime features a boy who wants to be the King of the Pirates?",
+          "options": [
+            "Naruto",
+            "Bleach",
+            "One Piece",
+            "Fairy Tail"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "aniq3",
+          "prompt": "What type of creature is Pikachu in Pokémon?",
+          "options": [
+            "Cat",
+            "Mouse",
+            "Dog",
+            "Rabbit"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "aniq4",
+          "prompt": "In 'Dragon Ball Z', what color is Super Saiyan Goku’s hair?",
+          "options": [
+            "Black",
+            "Blue",
+            "Yellow/Gold",
+            "Red"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "aniq5",
+          "prompt": "Which anime features giant human-like creatures called 'Titans'?",
+          "options": [
+            "One Piece",
+            "Attack on Titan",
+            "Death Note",
+            "Fullmetal Alchemist"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "aniq6",
+          "prompt": "In 'Death Note', what is the name of the notebook that can kill people?",
+          "options": [
+            "Book of Doom",
+            "Dark Journal",
+            "Death Note",
+            "Shinigami Scroll"
+          ],
+          "correctIndex": 2,
+          "difficulty": 3
+        },
+        {
+          "id": "aniq7",
+          "prompt": "In 'My Hero Academia', what is the name of the main character?",
+          "options": [
+            "Deku (Izuku Midoriya)",
+            "Sasuke",
+            "Ichigo",
+            "Tanjiro"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "ani",
+      "topicName": "Animals",
+      "questions": [
+        {
+          "id": "ani1",
+          "prompt": "Which animal is known as the King of the Jungle?",
+          "options": [
+            "Tiger",
+            "Elephant",
+            "Lion",
+            "Bear"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "ani2",
+          "prompt": "What is the fastest land animal?",
+          "options": [
+            "Horse",
+            "Cheetah",
+            "Leopard",
+            "Ostrich"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "ani3",
+          "prompt": "Which animal can change its color to blend in with its surroundings?",
+          "options": [
+            "Chameleon",
+            "Snake",
+            "Frog",
+            "Lizard"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "ani4",
+          "prompt": "What is a baby kangaroo called?",
+          "options": [
+            "Cub",
+            "Pup",
+            "Joey",
+            "Kitten"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        },
+        {
+          "id": "ani5",
+          "prompt": "Which bird is a universal symbol of peace?",
+          "options": [
+            "Crow",
+            "Dove",
+            "Sparrow",
+            "Eagle"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "ani6",
+          "prompt": "Which sea creature has eight arms?",
+          "options": [
+            "Squid",
+            "Octopus",
+            "Starfish",
+            "Crab"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "ani7",
+          "prompt": "Pandas mainly eat?",
+          "options": [
+            "Meat",
+            "Bananas",
+            "Bamboo",
+            "Rice"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "topicId": "cartoon",
+      "topicName": "Cartoons",
+      "questions": [
+        {
+          "id": "c1",
+          "prompt": "In 'SpongeBob SquarePants', what is SpongeBob’s job?",
+          "options": [
+            "Teacher",
+            "Chef",
+            "Cashier",
+            "Pilot"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "c2",
+          "prompt": "Which cartoon features a boy with a yellow head and spiky hair?",
+          "options": [
+            "Bart Simpson",
+            "Dexter",
+            "Johnny Bravo",
+            "Shinchan"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "c3",
+          "prompt": "What type of animal is Tom in 'Tom and Jerry'?",
+          "options": [
+            "Dog",
+            "Cat",
+            "Mouse",
+            "Rabbit"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "c4",
+          "prompt": "Which cartoon has a character named Scooby-Doo?",
+          "options": [
+            "Pokemon",
+            "Scooby-Doo",
+            "Looney Tunes",
+            "Ben 10"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "c5",
+          "prompt": "What magical objects do the characters collect in 'Dragon Ball'?",
+          "options": [
+            "Power Stones",
+            "Dragon Balls",
+            "Magic Keys",
+            "Crystal Stars"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "c6",
+          "prompt": "Who lives in a pineapple under the sea?",
+          "options": [
+            "Patrick",
+            "SpongeBob",
+            "Squidward",
+            "Mr. Krabs"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "c7",
+          "prompt": "Which cartoon dog says 'Ruh-roh!'?",
+          "options": [
+            "Pluto",
+            "Scooby-Doo",
+            "Courage",
+            "Clifford"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "games",
+      "topicName": "Video Games",
+      "questions": [
+        {
+          "id": "gme1",
+          "prompt": "Which game features a plumber named Mario?",
+          "options": [
+            "Sonic",
+            "Super Mario",
+            "Minecraft",
+            "Zelda"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "gme2",
+          "prompt": "In 'Minecraft', which creature explodes?",
+          "options": [
+            "Zombie",
+            "Skeleton",
+            "Creeper",
+            "Spider"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "gme3",
+          "prompt": "Which popular game lets players build and survive in blocky worlds?",
+          "options": [
+            "Roblox",
+            "Fortnite",
+            "Minecraft",
+            "Among Us"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "gme4",
+          "prompt": "Which character collects gold rings in his adventures?",
+          "options": [
+            "Mario",
+            "Sonic",
+            "Crash Bandicoot",
+            "Kirby"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "gme5",
+          "prompt": "In 'Among Us', what is the role of the bad guy?",
+          "options": [
+            "Builder",
+            "Impostor",
+            "Detective",
+            "Pilot"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "gme6",
+          "prompt": "Which video game series has characters named Pikachu and Charizard?",
+          "options": [
+            "Pokemon",
+            "Digimon",
+            "Zelda",
+            "Final Fantasy"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "gme7",
+          "prompt": "Which famous game has a 'Battle Royale' mode?",
+          "options": [
+            "Fortnite",
+            "Minecraft",
+            "PUBG",
+            "Both 1 and 3"
+          ],
+          "correctIndex": 3,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "sci",
+      "topicName": "Science",
+      "questions": [
+        {
+          "id": "s1",
+          "prompt": "H2O is the chemical formula for?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Water",
+            "Salt"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "s2",
+          "prompt": "Speed of light is approx:",
+          "options": [
+            "3x10^6 m/s",
+            "3x10^8 m/s",
+            "3x10^5 m/s",
+            "3x10^7 m/s"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "s3",
+          "prompt": "DNA stands for?",
+          "options": [
+            "Deoxyribonucleic Acid",
+            "Dynamic Nucleic Acid",
+            "Dicarboxylic Acid",
+            "None"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "s4",
+          "prompt": "Which gas do humans exhale?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "s5",
+          "prompt": "Which part of the plant conducts photosynthesis?",
+          "options": [
+            "Roots",
+            "Stem",
+            "Leaves",
+            "Flower"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "s6",
+          "prompt": "Which planet has the most moons?",
+          "options": [
+            "Earth",
+            "Saturn",
+            "Jupiter",
+            "Neptune"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "s7",
+          "prompt": "What force keeps us on the ground?",
+          "options": [
+            "Magnetism",
+            "Gravity",
+            "Friction",
+            "Electricity"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "topicId": "hist",
+      "topicName": "History",
+      "questions": [
+        {
+          "id": "h1",
+          "prompt": "Who discovered America (widely credited)?",
+          "options": [
+            "Columbus",
+            "Magellan",
+            "Cook",
+            "Vespucci"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "h2",
+          "prompt": "The Great Wall is in which country?",
+          "options": [
+            "India",
+            "China",
+            "Japan",
+            "Korea"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "h3",
+          "prompt": "World War II ended in?",
+          "options": [
+            "1945",
+            "1939",
+            "1918",
+            "1950"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "h4",
+          "prompt": "Who was the first President of the USA?",
+          "options": [
+            "Abraham Lincoln",
+            "George Washington",
+            "Thomas Jefferson",
+            "John Adams"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "h5",
+          "prompt": "Where were the ancient pyramids built?",
+          "options": [
+            "Greece",
+            "Egypt",
+            "Mexico",
+            "China"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "h6",
+          "prompt": "In which year did World War I begin?",
+          "options": [
+            "1914",
+            "1918",
+            "1939",
+            "1925"
+          ],
+          "correctIndex": 0,
+          "difficulty": 3
+        },
+        {
+          "id": "h7",
+          "prompt": "Who was the first man to step on the moon?",
+          "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Michael Collins"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "sports",
+      "topicName": "Sports",
+      "questions": [
+        {
+          "id": "sp1",
+          "prompt": "How many players in a football (soccer) team on field?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "sp2",
+          "prompt": "Tennis Grand Slams in a year?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "sp3",
+          "prompt": "Cricket over has how many balls?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "sp4",
+          "prompt": "Which country hosted the 2016 Summer Olympics?",
+          "options": [
+            "China",
+            "Brazil",
+            "Japan",
+            "UK"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "sp5",
+          "prompt": "Which sport is known as the 'king of sports'?",
+          "options": [
+            "Tennis",
+            "Football",
+            "Cricket",
+            "Basketball"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "sp6",
+          "prompt": "In basketball, how many points is a free throw worth?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "sp7",
+          "prompt": "Which country is famous for the sport 'Sumo'?",
+          "options": [
+            "China",
+            "Japan",
+            "Korea",
+            "India"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "it",
+      "topicName": "Tech/IT",
+      "questions": [
+        {
+          "id": "it1",
+          "prompt": "HTTP stands for?",
+          "options": [
+            "HyperText Transfer Protocol",
+            "HighText Transfer Protocol",
+            "Hyperlink Transfer Protocol",
+            "None"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "it2",
+          "prompt": "JS is short for?",
+          "options": [
+            "JavaSyntax",
+            "JavaScript",
+            "JustScript",
+            "JScript"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "it3",
+          "prompt": "Git command to upload local commits?",
+          "options": [
+            "git push",
+            "git pull",
+            "git commit",
+            "git add"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "it4",
+          "prompt": "What does CPU stand for?",
+          "options": [
+            "Central Processing Unit",
+            "Control Processing Unit",
+            "Computer Power Unit",
+            "Central Power Unit"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "it5",
+          "prompt": "Which company developed Windows OS?",
+          "options": [
+            "Apple",
+            "Google",
+            "Microsoft",
+            "IBM"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "it6",
+          "prompt": "Which programming language is known as the 'mother of all languages'?",
+          "options": [
+            "C",
+            "Python",
+            "Java",
+            "Assembly"
+          ],
+          "correctIndex": 0,
+          "difficulty": 3
+        },
+        {
+          "id": "it7",
+          "prompt": "What does 'URL' stand for?",
+          "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Unified Resource Link",
+            "Uniform Readable Locator"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "math",
+      "topicName": "Mathematics",
+      "questions": [
+        {
+          "id": "m1",
+          "prompt": "What is 12 x 12?",
+          "options": [
+            "124",
+            "144",
+            "122",
+            "132"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "m2",
+          "prompt": "What is the square root of 81?",
+          "options": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "m3",
+          "prompt": "What is the value of Pi (approx)?",
+          "options": [
+            "2.14",
+            "3.14",
+            "4.14",
+            "3.41"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "m4",
+          "prompt": "How many sides does a hexagon have?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "m5",
+          "prompt": "What is 15% of 200?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        },
+        {
+          "id": "m6",
+          "prompt": "Solve: 100 ÷ 25",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "m7",
+          "prompt": "What is the perimeter of a square with side 5 cm?",
+          "options": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "geo",
+      "topicName": "Geography",
+      "questions": [
+        {
+          "id": "g1",
+          "prompt": "Which is the largest desert in the world?",
+          "options": [
+            "Gobi",
+            "Sahara",
+            "Kalahari",
+            "Arabian"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "g2",
+          "prompt": "Which river is the longest in the world?",
+          "options": [
+            "Nile",
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "g3",
+          "prompt": "Which country has the most population?",
+          "options": [
+            "India",
+            "China",
+            "USA",
+            "Brazil"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "g4",
+          "prompt": "Which is the largest country by area?",
+          "options": [
+            "Canada",
+            "China",
+            "Russia",
+            "USA"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        },
+        {
+          "id": "g5",
+          "prompt": "Which continent is called the 'Dark Continent'?",
+          "options": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "Australia"
+          ],
+          "correctIndex": 1,
+          "difficulty": 3
+        },
+        {
+          "id": "g6",
+          "prompt": "Which is the capital of Japan?",
+          "options": [
+            "Beijing",
+            "Tokyo",
+            "Seoul",
+            "Kyoto"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "g7",
+          "prompt": "Mount Kilimanjaro is located in which country?",
+          "options": [
+            "Kenya",
+            "Tanzania",
+            "Uganda",
+            "Ethiopia"
+          ],
+          "correctIndex": 1,
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "topicId": "lit",
+      "topicName": "Literature",
+      "questions": [
+        {
+          "id": "l1",
+          "prompt": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Jane Austen"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "l2",
+          "prompt": "Who is the author of 'Harry Potter' series?",
+          "options": [
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "Roald Dahl"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "l3",
+          "prompt": "What is the national language of poetry in Pakistan?",
+          "options": [
+            "Sindhi",
+            "Punjabi",
+            "Urdu",
+            "English"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "l4",
+          "prompt": "Who wrote 'The Hobbit'?",
+          "options": [
+            "George R.R. Martin",
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "Lewis Carroll"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "l5",
+          "prompt": "Which fairy tale character lost a glass slipper?",
+          "options": [
+            "Snow White",
+            "Rapunzel",
+            "Cinderella",
+            "Sleeping Beauty"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "l6",
+          "prompt": "Who wrote 'Pride and Prejudice'?",
+          "options": [
+            "Jane Austen",
+            "Emily Brontë",
+            "Charlotte Brontë",
+            "Mary Shelley"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "l7",
+          "prompt": "Who is the author of 'The Jungle Book'?",
+          "options": [
+            "Rudyard Kipling",
+            "Roald Dahl",
+            "Mark Twain",
+            "Lewis Carroll"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "topicId": "art",
+      "topicName": "Art & Culture",
+      "questions": [
+        {
+          "id": "a1",
+          "prompt": "Who painted the Mona Lisa?",
+          "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Van Gogh"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "a2",
+          "prompt": "Taj Mahal is in which country?",
+          "options": [
+            "India",
+            "Pakistan",
+            "Iran",
+            "Nepal"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "a3",
+          "prompt": "Which country is famous for sushi?",
+          "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "Korea"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "a4",
+          "prompt": "Who painted 'Starry Night'?",
+          "options": [
+            "Van Gogh",
+            "Picasso",
+            "Da Vinci",
+            "Rembrandt"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "a5",
+          "prompt": "Which is the national flower of Japan?",
+          "options": [
+            "Lotus",
+            "Rose",
+            "Cherry Blossom",
+            "Tulip"
+          ],
+          "correctIndex": 2,
+          "difficulty": 2
+        },
+        {
+          "id": "a6",
+          "prompt": "Which festival is known as the festival of lights in India?",
+          "options": [
+            "Holi",
+            "Diwali",
+            "Eid",
+            "Pongal"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "a7",
+          "prompt": "The Great Sphinx is located in?",
+          "options": [
+            "Egypt",
+            "Greece",
+            "Rome",
+            "Turkey"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "music",
+      "topicName": "Music",
+      "questions": [
+        {
+          "id": "mu1",
+          "prompt": "How many strings does a standard guitar have?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "mu2",
+          "prompt": "Which composer wrote 'Fur Elise'?",
+          "options": [
+            "Beethoven",
+            "Mozart",
+            "Bach",
+            "Chopin"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "mu3",
+          "prompt": "What is the national anthem of the USA called?",
+          "options": [
+            "America the Beautiful",
+            "God Bless America",
+            "The Star-Spangled Banner",
+            "Yankee Doodle"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "mu4",
+          "prompt": "Who is known as the 'King of Pop'?",
+          "options": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Prince",
+            "Freddie Mercury"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "mu5",
+          "prompt": "Which musical instrument has black and white keys?",
+          "options": [
+            "Guitar",
+            "Piano",
+            "Violin",
+            "Flute"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "mu6",
+          "prompt": "What is the fastest tempo marking in music?",
+          "options": [
+            "Largo",
+            "Adagio",
+            "Presto",
+            "Moderato"
+          ],
+          "correctIndex": 2,
+          "difficulty": 3
+        },
+        {
+          "id": "mu7",
+          "prompt": "Which band was John Lennon part of?",
+          "options": [
+            "The Rolling Stones",
+            "The Beatles",
+            "Pink Floyd",
+            "Queen"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "space",
+      "topicName": "Space Exploration",
+      "questions": [
+        {
+          "id": "spx1",
+          "prompt": "Who was the first man in space?",
+          "options": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "Valentina Tereshkova"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "spx2",
+          "prompt": "Which planet has rings?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Saturn",
+            "Venus"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "spx3",
+          "prompt": "Which galaxy do we live in?",
+          "options": [
+            "Andromeda",
+            "Milky Way",
+            "Whirlpool",
+            "Sombrero"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "spx4",
+          "prompt": "Name the first artificial satellite launched into space?",
+          "options": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Voyager 1",
+            "Challenger"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "spx5",
+          "prompt": "Which planet is farthest from the Sun?",
+          "options": [
+            "Neptune",
+            "Uranus",
+            "Pluto",
+            "Saturn"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "spx6",
+          "prompt": "Which space telescope was launched in 1990?",
+          "options": [
+            "James Webb",
+            "Hubble",
+            "Spitzer",
+            "Kepler"
+          ],
+          "correctIndex": 1,
+          "difficulty": 3
+        },
+        {
+          "id": "spx7",
+          "prompt": "Which mission first landed humans on the Moon?",
+          "options": [
+            "Apollo 11",
+            "Apollo 13",
+            "Apollo 8",
+            "Apollo 17"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "topicId": "art",
+      "topicName": "Art  &  Literature",
+      "questions": [
+        {
+          "id": "art1",
+          "prompt": "Who painted the Mona Lisa?",
+          "options": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Van Gogh",
+            "Picasso"
+          ],
+          "correctIndex": 0,
+          "difficulty": 1
+        },
+        {
+          "id": "art2",
+          "prompt": "Which book series features Harry Potter?",
+          "options": [
+            "Lord of the Rings",
+            "Harry Potter",
+            "Narnia",
+            "Percy Jackson"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "art3",
+          "prompt": "The Starry Night is a painting by which artist?",
+          "options": [
+            "Da Vinci",
+            "Van Gogh",
+            "Rembrandt",
+            "Monet"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        },
+        {
+          "id": "art4",
+          "prompt": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+            "Charles Dickens",
+            "Mark Twain",
+            "William Shakespeare",
+            "Homer"
+          ],
+          "correctIndex": 2,
+          "difficulty": 1
+        },
+        {
+          "id": "art5",
+          "prompt": "Which museum is the Mona Lisa displayed in?",
+          "options": [
+            "The Louvre",
+            "The British Museum",
+            "The Prado",
+            "The Met"
+          ],
+          "correctIndex": 0,
+          "difficulty": 2
+        },
+        {
+          "id": "art6",
+          "prompt": "What type of book is a dictionary?",
+          "options": [
+            "Novel",
+            "Reference",
+            "Poetry",
+            "Fiction"
+          ],
+          "correctIndex": 1,
+          "difficulty": 1
+        },
+        {
+          "id": "art7",
+          "prompt": "Which famous playwright is called the 'Bard of Avon'?",
+          "options": [
+            "William Blake",
+            "William Shakespeare",
+            "Christopher Marlowe",
+            "John Milton"
+          ],
+          "correctIndex": 1,
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}
